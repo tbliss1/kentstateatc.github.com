@@ -97,7 +97,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 body {
   font-family: pt-sans, sans-serif;
-  margin: 0;
+  margin: 0px 0px 100px;
   padding: 0;
   line-height: 1.5em; }
 
@@ -180,4 +180,14 @@ a {
   padding: 10px 20px;
   border: 1px solid #ddd;
   top: 30px;
-  position: relative; }
+  position: relative;
+  -webkit-box-shadow: 2px 2px 0px #dddddd;
+  -moz-box-shadow: 2px 2px 0px #dddddd;
+  box-shadow: 2px 2px 0px #dddddd; }
+  .content h1, .content h2, .content h3 {
+    text-align: center; }
+
+blockquote {
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 20px; }
