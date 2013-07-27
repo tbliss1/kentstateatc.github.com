@@ -17,5 +17,3 @@ After you are approved, you will receive an email from KAO advising you so, and 
 
 Stage IV:
 The General Election takes place, and if you beat all opponents for the desired position, you will hold that position for the entire academic year. The President will brief you on your responsibilities, and begin assigning orientational tasks for your duties.
-
-<iframe src="https://docs.google.com/forms/d/1NLaFf3kjcVun-0ns5mEJwHmmNPRE_MN5m3a9gxfFxA4/viewform?embedded=true" width="100%" height="550" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
