@@ -2,7 +2,7 @@
 layout: hero
 title: Proposed 2013 Constitution
 ---
-# xProposed 2013 Constitution
+# Proposed 2013 Constitution
 
 Please use the form below to vote for the changes made in our 2013 constitution. Before voting, please review the two following documents:
 
