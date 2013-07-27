@@ -1,6 +1,6 @@
 ---
 layout: hero
-title: Proposed 2013 Constitution
+title: Become an Officer with KAO
 ---
 # Apply for KAO Leadership Positions
 
