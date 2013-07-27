@@ -2,7 +2,7 @@
 layout: hero
 title: Become an Officer with KAO
 ---
-# Apply for KAO Leadership Positions
+# Become an Officer with KAO
 
 If you are a full member of KAO, and wish to become an officer, the process is described below:
 
