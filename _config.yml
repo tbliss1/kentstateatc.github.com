@@ -1,33 +1,4 @@
-# source: ./src
-# destination: ./site
-# auto: true
-
 description: 'KAO is a student organization for all aviation enthusiasts. Aside from exciting guest speakers and aviation facility tours, our weekly meetings will include discussions of fascinating, advanced topics in the field of aviation, with a special interest to air traffic controllers.'
 
-# standard jekyll configuration
-
-# permalink: /:title
-# pygments: true
-# exclude: ['Rakefile', 'README.md', 'config.rb']
-# markdown: rdiscount
-
 # configuration required for some pages
-
 domain: www.kentstateatc.org
-# title: KD
-# author: Kyle Dreger
-# email: me@kyledreger.com
-
-# configuration for ehancements, uncomment to enable
-
-# feedburner:
-#   id: feedburnerid
-
-# google_analytics:
-#   account: UA-17208416-19
-
-# github:
-#   username: dreger
-
-# disqus:
-#   id: disqusid
