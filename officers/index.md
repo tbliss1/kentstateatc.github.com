@@ -8,7 +8,7 @@ title: KAO Leadership
 
 President:
 - 
-The President of KAO is responsible for the overall operation of the organization as a whole. The President will develop and execute a year plan for the organization, and make full use of all resources to provide the best overall product to the member body. The President will be expected, within reason, to be present at every single KAO meeting, event, activity, etc. The President should be an established leader, who can effectively delegate and supervise tasks and keep the organization on schedule without carrying an immense personal load.
+The President of KAO is responsible for the overall operation of the organization. The President will develop and execute a year plan for the organization, and make full use of all resources to provide the best overall product to the member body. The President will be expected, within reason, to be present at every single KAO meeting, event, activity, etc. The President should be an established leader, who can effectively delegate and supervise tasks and keep the organization on schedule without carrying an immense personal load.
 
 Vice President:
 -
