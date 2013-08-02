@@ -4,7 +4,7 @@ title: KAO Leadership
 ---
 # KAO Leadership
 
-View KAO's Officer Positions
+View KAO's Officer Positions (4)
 -
 
 ### President:
@@ -24,6 +24,9 @@ The Clerk of Events of KAO shall hold the responsibilities of the typical "treas
 The Public Relations Director of KAO holds most of the responsibility for coordinating between the organization and other outside entities (CAEST, KSU, other student organizations, local aviation programs like ACE), for advertising and maintaining a strong KAO presence within the Van Deusen and aeronautical environments, as well as for developing and managing the implementation of KAO's line of apparel. The PR Director will also coordinate with the Class Representatives when necessary and as desired in order to help create a positive appearance of KAO to the student body, college administration, and general public.
 
 
+
+
+
 View KAO's Associate Officer Positions
 -
 
@@ -34,6 +37,9 @@ These individuals will be the "go-to" person among their classmates when it come
 ### Controller & Pilot Specialists:
 
 These individuals will be appointed to these positions, though anyone may indicate interest by [emailing us] (mailto:desk@kentstateatc.org). They will be made available to the organization to give presentation(s) on advanced topics within their specialty.
+
+
+
 
 
 Apply For A Position
