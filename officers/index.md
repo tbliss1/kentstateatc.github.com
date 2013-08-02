@@ -1,27 +1,19 @@
 ---
 layout: hero
-title: KAO Leadership
+title: Membership
 ---
-# KAO Leadership
+# Membership
 
-### View KAO's Officer Positions
+We currently offer two types of membership for KAO. Please determine which type of membership you would like to apply for, and then specify that option on our sign-up form. 
 
-President:
-- 
+### Full Membership
 
-Vice President:
--
+Membership is **open** to all Kent State University students with an interest in aviation. Membership is not required to attend meetings, but is encouraged, and necessary to receive the full benefits of the KSU ATC Organization.
 
-Clerk of Events:
--
+If you are a Kent State University student, you are eligible to become a full member of the KSU ATC Organization. All majors are welcomed.
 
-Public Relations Director:
--
+### Affiliate Membership
 
-Class Representatives (one per projected graduation year):
--
+Affiliate membership is also available to any non-KSU affiliated person who wishes to join. Affiliate membership includes the opportunity to participate in ANY and ALL KAO activities. The only limitation is that affiliate members may not cast a vote for officer elections.
 
-Controller & Pilot Specialists:
--
-
-If you would like to apply to be placed on the 2013 ballot for any of these positions, feel free to do so [here] (/voting/2013-officers).
+### You can apply for membership [here](http://kentstateatc.us6.list-manage.com/subscribe?u=43d96d7228aa8f1f9461ceb13&id=fe135b2a2a).
