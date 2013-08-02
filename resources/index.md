@@ -3,7 +3,7 @@ layout: hero
 title: Resources
 ---
 # Resources
-
+ 
 We have the following materials available for you to download and view: 
 
 - [KSU ATC Organization Constitution, 9-21-12](https://www.dropbox.com/s/4imwwu1k07io1bc/Constitution%20-%20Kent%20ATC%20Organization%2C%209-21-12.pdf)
