@@ -35,4 +35,4 @@ These individuals will be appointed to these positions, though anyone may indica
 
 
 ### Apply For A Position
-If you would like to apply to be placed on the 2013 ballot for any of these positions, feel free to do so [here] (/voting/2013-officers).
+If you would like to apply to be placed on the 2013 ballot for any of these positions, feel free to do so [here] (http://www.kentstateatc.org/voting/2013-officers).
