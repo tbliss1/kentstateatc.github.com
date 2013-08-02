@@ -18,4 +18,7 @@ After you are approved, you will receive an email from KAO advising you so, and 
 Stage IV:
 The General Election takes place, and if you beat all opponents for the desired position, you will hold that position for the entire academic year. The President will brief you on your responsibilities, and begin assigning orientational tasks for your duties.
 
+
+Note: If you would like to see descriptions of the duties of the various officer positions, go [here] (http://www.kentstateatc.org/officers).
+
 <iframe src="https://docs.google.com/forms/d/1D9yJloqT-KeefPQerjGDO6PurQxv5-ypGgVsyfFrDWI/viewform?embedded=true" width="520" height="350" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
