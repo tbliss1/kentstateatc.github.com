@@ -10,6 +10,8 @@ All __full__ members of KAO may now cast their votes (only one vote will be coun
 
 ### **Click <a href="#" rel="nofollow" onClick="window.open('http://www.smartsurvey.co.uk/s/87491STPSA', '','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=800,height=495');return false" >here</a> to vote in the 2013 KAO General Election.**
 
+This General Election Voting Period is active 8/10/2013 12:01am - 8/18/2013 11:59pm. ([See the calendar](www.kentstateatc.org/calendar))
+
 If you have technical difficulties, [let us know](mailto:desk@kentstateatc.org).
 
 -KAO ^>
