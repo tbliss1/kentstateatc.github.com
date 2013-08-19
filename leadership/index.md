@@ -21,7 +21,7 @@ KSU ATC Lab Assistant
 [arudewic@kent.edu](mailto:arudewic@kent.edu)
 
 ### Courtney Scott, Clerk of Events
-![CS](/assets/images/leadership/CS.jpg)
+<!--[CS](/assets/images/leadership/CS.jpg)-->
 Junior, Air Traffic Control Major  
 [cscott47@kent.edu](mailto:cscott47@kent.edu)
 
