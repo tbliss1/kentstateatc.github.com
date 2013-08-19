@@ -11,7 +11,7 @@ title: KAO Leadership
 Senior, Air Traffic Control Major  
 KAO Co-Founder, VP in 2012  
 KSU ATC Lab Instructor  
-[erik@kentstateatc.org](mailto:erik@kentstateatc.org)
+[erik@kentstateatc.org](mailto:erik@kentstateatc.org)    
 
 
 ### Alex Rudewicz, Vice President
