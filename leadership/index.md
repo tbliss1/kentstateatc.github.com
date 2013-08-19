@@ -6,55 +6,30 @@ title: KAO Leadership
 
 ### KAO Executives
 
-<!--
 ### Erik Quinn, President
 ![EQ](/assets/images/leadership/EQ.jpg)
 Senior, Air Traffic Control Major  
 KAO Co-Founder, VP in 2012  
 KSU ATC Lab Instructor  
-[erik@kentstateatc.org](mailto:erik@kentstateatc.org)    
+[erik@kentstateatc.org](mailto:erik@kentstateatc.org)<br><BR>
 
 ### Alex Rudewicz, Vice President
 ![AR](/assets/images/leadership/AR.jpg)
 Junior, Air Traffic Control Major  
 KAO ATC Subject Specialist (Terminal) in 2012  
 KSU ATC Lab Instructor  
-[arudewic@kent.edu](mailto:arudewic@kent.edu)    
+[arudewic@kent.edu](mailto:arudewic@kent.edu)
 
 ### Courtney Scott, Clerk of Events
 ![CS](/assets/images/leadership/CS.jpg)
 Junior, Air Traffic Control Major  
-[cscott47@kent.edu](mailto:cscott47@kent.edu)    
+[cscott47@kent.edu](mailto:cscott47@kent.edu)
 
 ### Ally Opfer, Public Relations Director
 ![AO](/assets/images/leadership/AO.jpg)
 Sophomore, Air Traffic Control Major  
-[aopfer1@kent.edu](mailto:aopfer1@kent.edu)  
--->
+[aopfer1@kent.edu](mailto:aopfer1@kent.edu)
 
-![EQ](/assets/images/leadership/EQ.jpg)
-__Erik Quinn, President__
-Senior, Air Traffic Control Major  
-KAO Co-Founder, VP in 2012  
-KSU ATC Lab Instructor  
-[erik@kentstateatc.org](mailto:erik@kentstateatc.org)    
-
-![AR](/assets/images/leadership/AR.jpg)
-__Alex Rudewicz, Vice President__
-Junior, Air Traffic Control Major  
-KAO ATC Subject Specialist (Terminal) in 2012  
-KSU ATC Lab Instructor  
-[arudewic@kent.edu](mailto:arudewic@kent.edu)    
-
-![CS](/assets/images/leadership/CS.jpg)
-__Courtney Scott, Clerk of Events__
-Junior, Air Traffic Control Major  
-[cscott47@kent.edu](mailto:cscott47@kent.edu)    
-
-![AO](/assets/images/leadership/AO.jpg)
-__Ally Opfer, Public Relations Director__
-Sophomore, Air Traffic Control Major  
-[aopfer1@kent.edu](mailto:aopfer1@kent.edu)  
 
 ### Class Representatives
 
@@ -95,7 +70,7 @@ Junior, Flight Technology Major
 -->
 
 
-## __KAO Faculty Advisors__
+### KAO Faculty Advisors
 
 ### Robert A. Priestley
 ![RP picture](/assets/images/leadership/RP.jpg)
