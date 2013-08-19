@@ -10,14 +10,14 @@ title: KAO Leadership
 ![EQ](/assets/images/leadership/EQ.jpg)
 Senior, Air Traffic Control Major  
 KAO Co-Founder, VP in 2012  
-KSU ATC Lab Instructor  
+KSU ATC Lab Assistant  
 [erik@kentstateatc.org](mailto:erik@kentstateatc.org)
 
 ### Alex Rudewicz, Vice President
 ![AR](/assets/images/leadership/AR.jpg)
 Junior, Air Traffic Control Major  
 KAO ATC Subject Specialist (Terminal) in 2012  
-KSU ATC Lab Instructor  
+KSU ATC Lab Assistant  
 [arudewic@kent.edu](mailto:arudewic@kent.edu)
 
 ### Courtney Scott, Clerk of Events
