@@ -4,8 +4,9 @@ title: KAO Leadership
 ---
 # KAO Leadership
 
-### __KAO Executives__
+### KAO Executives
 
+<!--
 ### Erik Quinn, President
 ![EQ](/assets/images/leadership/EQ.jpg)
 Senior, Air Traffic Control Major  
@@ -13,49 +14,68 @@ KAO Co-Founder, VP in 2012
 KSU ATC Lab Instructor  
 [erik@kentstateatc.org](mailto:erik@kentstateatc.org)    
 
-
 ### Alex Rudewicz, Vice President
 ![AR](/assets/images/leadership/AR.jpg)
 Junior, Air Traffic Control Major  
 KAO ATC Subject Specialist (Terminal) in 2012  
 KSU ATC Lab Instructor  
-[arudewic@kent.edu](mailto:arudewic@kent.edu)  
-
+[arudewic@kent.edu](mailto:arudewic@kent.edu)    
 
 ### Courtney Scott, Clerk of Events
 ![CS](/assets/images/leadership/CS.jpg)
 Junior, Air Traffic Control Major  
-[cscott47@kent.edu](mailto:cscott47@kent.edu)  
-
+[cscott47@kent.edu](mailto:cscott47@kent.edu)    
 
 ### Ally Opfer, Public Relations Director
 ![AO](/assets/images/leadership/AO.jpg)
 Sophomore, Air Traffic Control Major  
 [aopfer1@kent.edu](mailto:aopfer1@kent.edu)  
+-->
 
+__Erik Quinn, President__
+![EQ](/assets/images/leadership/EQ.jpg)
+Senior, Air Traffic Control Major  
+KAO Co-Founder, VP in 2012  
+KSU ATC Lab Instructor  
+[erik@kentstateatc.org](mailto:erik@kentstateatc.org)    
 
-## __Class Representatives__
+__Alex Rudewicz, Vice President__
+![AR](/assets/images/leadership/AR.jpg)
+Junior, Air Traffic Control Major  
+KAO ATC Subject Specialist (Terminal) in 2012  
+KSU ATC Lab Instructor  
+[arudewic@kent.edu](mailto:arudewic@kent.edu)    
 
-### Lennox West, Freshman Class Representative
-![LW](/assets/images/leadership/LW.jpg)
-Freshman, Air Traffic Control Major  
-[lwest14@kent.edu](mailto:lwest14@kent.edu)  
+__Courtney Scott, Clerk of Events__
+![CS](/assets/images/leadership/CS.jpg)
+Junior, Air Traffic Control Major  
+[cscott47@kent.edu](mailto:cscott47@kent.edu)    
 
+__Ally Opfer, Public Relations Director__
+![AO](/assets/images/leadership/AO.jpg)
+Sophomore, Air Traffic Control Major  
+[aopfer1@kent.edu](mailto:aopfer1@kent.edu)  
+
+### Class Representatives
+
+### Mike Daugherty, Senior Class Representative
+![MD](/assets/images/leadership/MD.jpg)
+Senior, Air Traffic Control Major  
+[mdaughe4@kent.edu](mailto:mdaughe4@kent.edu)
+
+### Position Vacant, Junior Class Representative
+For questions or to apply, contact KAO below.  
+[Questions / Apply for this Position](mailto:desk@kentstateatc.org?subject=Interest in Junior Class Representative Position)
 
 ### Angus McCormack, Sophomore Class Representative
 ![AM](/assets/images/leadership/AM.jpg)
 Sophomore, Air Traffic Control Major  
 [amccorm4@kent.edu](mailto:amccorma4@kent.edu)  
 
-
-### Position Vacant, Junior Class Representative
-For questinos or to apply, contact KAO below.  
-[Questions / Apply for this Position](mailto:desk@kentstateatc.org?subject=Interest in Junior Class Representative Position)
-
-### Mike Daugherty, Senior Class Representative
-![MD](/assets/images/leadership/MD.jpg)
-Senior, Air Traffic Control Major  
-[mdaughe4@kent.edu](mailto:mdaughe4@kent.edu)
+### Lennox West, Freshman Class Representative
+![LW](/assets/images/leadership/LW.jpg)
+Freshman, Air Traffic Control Major  
+[lwest14@kent.edu](mailto:lwest14@kent.edu)  
 
 
 <!--
