@@ -32,27 +32,27 @@ Sophomore, Air Traffic Control Major
 [aopfer1@kent.edu](mailto:aopfer1@kent.edu)  
 -->
 
-__Erik Quinn, President__
 ![EQ](/assets/images/leadership/EQ.jpg)
+__Erik Quinn, President__
 Senior, Air Traffic Control Major  
 KAO Co-Founder, VP in 2012  
 KSU ATC Lab Instructor  
 [erik@kentstateatc.org](mailto:erik@kentstateatc.org)    
 
-__Alex Rudewicz, Vice President__
 ![AR](/assets/images/leadership/AR.jpg)
+__Alex Rudewicz, Vice President__
 Junior, Air Traffic Control Major  
 KAO ATC Subject Specialist (Terminal) in 2012  
 KSU ATC Lab Instructor  
 [arudewic@kent.edu](mailto:arudewic@kent.edu)    
 
-__Courtney Scott, Clerk of Events__
 ![CS](/assets/images/leadership/CS.jpg)
+__Courtney Scott, Clerk of Events__
 Junior, Air Traffic Control Major  
 [cscott47@kent.edu](mailto:cscott47@kent.edu)    
 
-__Ally Opfer, Public Relations Director__
 ![AO](/assets/images/leadership/AO.jpg)
+__Ally Opfer, Public Relations Director__
 Sophomore, Air Traffic Control Major  
 [aopfer1@kent.edu](mailto:aopfer1@kent.edu)  
 
