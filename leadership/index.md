@@ -4,17 +4,17 @@ title: KAO Leadership
 ---
 # KAO Leadership
 
-## __KAO Executives__
+### __KAO Executives__
 
-### Erik Quinn, President
-![EQ](/assets/images/leadership/EQ.jpg)  
+## Erik Quinn, President
+![EQ](/assets/images/leadership/EQ.jpg)
 Senior, Air Traffic Control Major  
 KAO Co-Founder, VP in 2012  
 KSU ATC Lab Instructor  
-[erik@kentstateatc.org](mailto:erik@kentstateatc.org)  
+[erik@kentstateatc.org](mailto:erik@kentstateatc.org)    
 
 
-### Alex Rudewicz, Vice President
+# Alex Rudewicz, Vice President
 ![AR](/assets/images/leadership/AR.jpg)  
 Junior, Air Traffic Control Major  
 KAO ATC Subject Specialist (Terminal) in 2012  
