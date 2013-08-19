@@ -4,78 +4,90 @@ title: KAO Leadership
 ---
 # KAO Leadership
 
-View KAO's 2013 Leadership Staff
--
-
 ### Erik Quinn, President
-Senior, Air Traffic Control Major
-KAO Co-Founder, VP in 2012
-KSU ATC Lab Instructor
-[erik@kentstateatc.org] (mailto:erik@kentstateatc.org)
+Senior, Air Traffic Control Major  
+KAO Co-Founder, VP in 2012  
+KSU ATC Lab Instructor  
+[erik@kentstateatc.org](mailto:erik@kentstateatc.org)  
 ![erik's headshot](/assets/images/leadership/EQ.jpg)
 
 ### Alex Rudewicz, Vice President
-Junior, Air Traffic Control Major
-KAO ATC Subject Specialist (Terminal) in 2012
-KSU ATC Lab Instructor
-[arudewic@kent.edu] (mailto:arudewic@kent.edu)
+Junior, Air Traffic Control Major  
+KAO ATC Subject Specialist (Terminal) in 2012  
+KSU ATC Lab Instructor  
+[arudewic@kent.edu](mailto:arudewic@kent.edu)  
+![headshot](/assets/images/leadership/AR.jpg)
+
 
 ### Courtney Scott, Clerk of Events
-Junior, Air Traffic Control Major
-[cscott47@kent.edu] (mailto:cscott47@kent.edu)
+Junior, Air Traffic Control Major  
+[cscott47@kent.edu](mailto:cscott47@kent.edu)  
+![headshot](/assets/images/leadership/CS.jpg)
+
 
 ### Andrew Burnham, Public Relations Director
-Sophomore, Air Traffic Control Major
-[aburnha1@kent.edu] (mailto:aburnha1@kent.edu)
+Sophomore, Air Traffic Control Major  
+[aburnha1@kent.edu](mailto:aburnha1@kent.edu)  
+![headshot](/assets/images/leadership/AB.jpg)
 
-
-View KAO's Associate Officer Positions
--
 
 ## Class Representatives
 
 ### Lennox West, Freshman Class Representative
-Freshman, Air Traffic Control Major
-[lennoxwestemail] (mailto:lennoxwestemail)
+Freshman, Air Traffic Control Major  
+[lennoxwestemail](mailto:lennoxwestemail)  
+![headshot](/assets/images/leadership/LW.jpg)
+
 
 ### Angus McCormack, Sophomore Class Representative
-Sophomore, Air Traffic Control Major
-[amccorm4@kent.edu] (mailto:amccorma4@kent.edu)
+Sophomore, Air Traffic Control Major  
+[amccorm4@kent.edu](mailto:amccorma4@kent.edu)  
+![headshot](/assets/images/leadership/AM.jpg)
+
 
 ### Position Vacant, Junior Class Representative
-Junior, [Major Field of Study]
-[juniorrepemail] (mailto:juniorrepemail)
+Junior, Major Field of Study  
+[juniorrepemail](mailto:juniorrepemail)
 
 ### Mike Daugherty, Senior Class Representative
-Senior, Air Traffic Control Major
-[mikedaughertyemail] (mailto:mikedaughertyemail)
+Senior, Air Traffic Control Major  
+[mikedaughertyemail](mailto:mikedaughertyemail)
+
 
 ## Subject Specialists
 
 ### Tyler Stanis, Flight Subject Specialist
-Junior, Air Traffic Control & Flight Technology Double-Major
-KAO Flight Subject Specialist since 2012
-[tstanis@kent.edu] (mailto:tstanis@kent.edu)
+Junior, Air Traffic Control and Flight Technology Double-Major  
+KAO Flight Subject Specialist since 2012  
+[tstanis@kent.edu](mailto:tstanis@kent.edu)  
+![headshot](/assets/images/leadership/TS.jpg)
+
 
 ### Dan Schiff, Airline Operations Subject Specialist
-Junior, Flight Technology Major
-[danschiffemail] (mailto:danschiffemail)
+Junior, Flight Technology Major  
+[danschiffemail](mailto:danschiffemail)  
+![headshot](/assets/images/leadership/DS.jpg)
 
 
-KAO Faculty Advisors
--
+
+**KAO Faculty Advisors**
 
 ### Robert A. Priestley
-Assistant Professor of ATC
-KAO Subject Matter Expert, ATC: Terminal Option
-[rpriestl@kent.edu] (mailto:rpriestl@kent.edu)
+Assistant Professor of ATC  
+KAO Subject Matter Expert, ATC: Terminal Option  
+[rpriestl@kent.edu](mailto:rpriestl@kent.edu)  
+![headshot](/assets/images/leadership/RP.jpg)
+
 
 ### Jason T. Boergerhoff
-Assistant Professor of ATC
-KAO Subject Matter Expert, ATC: Enroute Option
-[jboerger@kent.edu] (mailto:jboerger@kent.edu)
+Assistant Professor of ATC  
+KAO Subject Matter Expert, ATC: Enroute Option  
+[jboerger@kent.edu](mailto:jboerger@kent.edu)
+
 
 ### Dr. Isaac Richmond Nettey, Ph.D.
-KAO Subject Matter Expert, Aviation History & Airport Administration
-Associate Dean, CAEST
-[inettey@kent.edu] (mailto:inettey@kent.edu)
+KAO Subject Matter Expert, Aviation History and Airport Administration  
+Associate Dean, CAEST  
+[inettey@kent.edu](mailto:inettey@kent.edu)  
+![headshot](/assets/images/leadership/IN.jpg)
+

@@ -2,3 +2,5 @@ description: 'KAO is a student organization for all aviation enthusiasts. Aside 
 
 # configuration required for some pages
 domain: www.kentstateatc.org
+
+markdown: rdiscount
