@@ -6,7 +6,7 @@ title: KAO Leadership
 
 ### __KAO Executives__
 
-## Erik Quinn, President
+### Erik Quinn, President
 ![EQ](/assets/images/leadership/EQ.jpg)
 Senior, Air Traffic Control Major  
 KAO Co-Founder, VP in 2012  
@@ -14,8 +14,8 @@ KSU ATC Lab Instructor
 [erik@kentstateatc.org](mailto:erik@kentstateatc.org)    
 
 
-# Alex Rudewicz, Vice President
-![AR](/assets/images/leadership/AR.jpg)  
+### Alex Rudewicz, Vice President
+![AR](/assets/images/leadership/AR.jpg)
 Junior, Air Traffic Control Major  
 KAO ATC Subject Specialist (Terminal) in 2012  
 KSU ATC Lab Instructor  
@@ -23,13 +23,13 @@ KSU ATC Lab Instructor
 
 
 ### Courtney Scott, Clerk of Events
-![CS](/assets/images/leadership/CS.jpg)  
+![CS](/assets/images/leadership/CS.jpg)
 Junior, Air Traffic Control Major  
 [cscott47@kent.edu](mailto:cscott47@kent.edu)  
 
 
 ### Ally Opfer, Public Relations Director
-![AO](/assets/images/leadership/AO.jpg)  
+![AO](/assets/images/leadership/AO.jpg)
 Sophomore, Air Traffic Control Major  
 [aopfer1@kent.edu](mailto:aopfer1@kent.edu)  
 
@@ -37,13 +37,13 @@ Sophomore, Air Traffic Control Major
 ## __Class Representatives__
 
 ### Lennox West, Freshman Class Representative
-![LW](/assets/images/leadership/LW.jpg)  
+![LW](/assets/images/leadership/LW.jpg)
 Freshman, Air Traffic Control Major  
 [lwest14@kent.edu](mailto:lwest14@kent.edu)  
 
 
 ### Angus McCormack, Sophomore Class Representative
-![AM](/assets/images/leadership/AM.jpg)  
+![AM](/assets/images/leadership/AM.jpg)
 Sophomore, Air Traffic Control Major  
 [amccorm4@kent.edu](mailto:amccorma4@kent.edu)  
 
@@ -74,7 +74,7 @@ Junior, Flight Technology Major
 ![headshot](/assets/images/leadership/DS.jpg)
 -->
 
---
+-
 
 ## __KAO Faculty Advisors__
 
