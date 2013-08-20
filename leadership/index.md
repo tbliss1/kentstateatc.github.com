@@ -50,7 +50,7 @@ Sophomore, Air Traffic Control Major
 ### Lennox West, Freshman Class Representative
 ![LW](/assets/images/leadership/LW.jpg)
 Freshman, Air Traffic Control Major  
-[lwest14@kent.edu](mailto:lwest14@kent.edu)  
+[lwest12@kent.edu](mailto:lwest12@kent.edu)  
 
 
 <!--
