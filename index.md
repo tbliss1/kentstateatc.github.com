@@ -4,6 +4,8 @@ title: Welcome to the Kent State Air Traffic Control Association
 ---
 # A message from the founders 
 
+
+
 ___ * * * KAO's first meeting will take place Friday at 5pm in Van Deusen 115. * * *___
 
 ### Welcome to the Kent State Air Traffic Control Association
