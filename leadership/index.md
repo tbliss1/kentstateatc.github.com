@@ -24,13 +24,13 @@ KSU ATC Lab Instructor
 ### Courtney Scott, Clerk of Events
 Junior, Air Traffic Control Major  
 [cscott47@kent.edu](mailto:cscott47@kent.edu)
-![headshot](/assets/images/leadership/CS2.jpg)
+![headshot](/assets/images/leadership/CS.jpg)
 
 
 ### Ally Opfer, Public Relations Director
 Sophomore, Air Traffic Control Major  
 [aopfer1@kent.edu](mailto:aopfer1@kent.edu)
-![headshot](/assets/images/leadership/AO2.jpg)
+![headshot](/assets/images/leadership/AO.jpg)
 
 
 ### Class Representatives
