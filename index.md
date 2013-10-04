@@ -13,6 +13,8 @@ Our members include the BEST of Kent Aeronautics, from air traffic controllers t
 The philosophy here at KAO is one of professionalism, dedication, camaraderie and collaboration. KAO is an organization of people who work together to create an incredible environment of learning, improvement, and enjoyment of all things air traffic. We invite you to become a member of this remarkable organization and see why so many KSU students use the motto that we hold so close to our hearts, _our_ motto... "Upward and Onward."
 
 ^>
---The "Founding Fathers"  Scott Waite & Erik Quinn
+
+The "Founding Fathers"  
+Scott Waite & Erik Quinn
 
 > "To most people, the sky is the limit. To those who love aviation, the sky is home" - Anonymous
