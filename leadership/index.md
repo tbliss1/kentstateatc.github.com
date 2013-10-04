@@ -4,6 +4,8 @@ title: KAO Leadership
 ---
 # KAO Leadership
 
+### KAO Executives
+
 ### Erik Quinn, President
 Senior, Air Traffic Control Major
 KAO Co-Founder, VP in 2012
@@ -25,17 +27,17 @@ Junior, Air Traffic Control Major
 ![headshot](/assets/images/leadership/CS2.jpg)
 
 
-### Andrew Burnham, Public Relations Director
+### Ally Opfer, Public Relations Director
 Sophomore, Air Traffic Control Major
-[aburnha1@kent.edu](mailto:aburnha1@kent.edu)
-![headshot](/assets/images/leadership/AB.jpg)
+[aopfer1@kent.edu](mailto:aopfer1@kent.edu)
+![headshot](/assets/images/leadership/AO.jpg)
 
 
-## Class Representatives
+### Class Representatives
 
 ### Lennox West, Freshman Class Representative
 Freshman, Air Traffic Control Major
-[lennoxwestemail](mailto:lennoxwestemail)
+[lwest12@kent.edu](mailto:lwest12@kent.edu)
 ![headshot](/assets/images/leadership/LW.jpg)
 
 
@@ -45,15 +47,18 @@ Sophomore, Air Traffic Control Major
 ![headshot](/assets/images/leadership/AM.jpg)
 
 
-### Position Vacant, Junior Class Representative
-Junior, Major Field of Study
-[juniorrepemail](mailto:juniorrepemail)
+### Michael Gillies, Junior Class Representative
+Junior, Air Traffic Control Major
+[mgillies@kent.edu](mailto:mgillies@kent.edu)
+![headshot](/assets/images/leadership/MG.jpg)
 
 ### Mike Daugherty, Senior Class Representative
 Senior, Air Traffic Control Major
-[mikedaughertyemail](mailto:mikedaughertyemail)
+[mdaughe4@kent.edu](mailto:mdaughe4@kent.edu)
+![headshot](/assets/images/leadership/MD.jpg)
 
 
+<!--
 ## Subject Specialists
 
 ### Tyler Stanis, Flight Subject Specialist
@@ -67,10 +72,10 @@ KAO Flight Subject Specialist since 2012
 Junior, Flight Technology Major
 [danschiffemail](mailto:danschiffemail)
 ![headshot](/assets/images/leadership/DS.jpg)
+-->
 
 
-
-**KAO Faculty Advisors**
+### KAO Faculty Advisors
 
 ### Robert A. Priestley
 Assistant Professor of ATC
