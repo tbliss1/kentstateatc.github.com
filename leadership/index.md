@@ -50,7 +50,7 @@ Sophomore, Air Traffic Control Major
 ### Michael Gillies, Junior Class Representative
 Junior, Air Traffic Control Major  
 [mgillies@kent.edu](mailto:mgillies@kent.edu)
-![headshot](/assets/images/leadership/MG.jpg)
+![picture](/assets/images/leadership/MG.jpg)
 
 ### Mike Daugherty, Senior Class Representative
 Senior, Air Traffic Control Major  
@@ -94,5 +94,5 @@ KAO Subject Matter Expert, ATC: Enroute Option
 KAO Subject Matter Expert, Aviation History and Airport Administration  
 Associate Dean, CAEST  
 [inettey@kent.edu](mailto:inettey@kent.edu)
-![headshot](/assets/images/leadership/IN2.jpg)
+![headshot](/assets/images/leadership/IN.jpg)
 
