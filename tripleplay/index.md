@@ -4,6 +4,8 @@ title: Resources
 ---
 # The "Triple-Play"
  
+### Multi-Suite Scenarios
+
 Thanks to our ATC Simulation Software provided by CSC, Kent State's ATC Lab is capable of doing something very extraordinary.
 
 Instead of using each tower simulator or radar suite individually, running independent scenarios, we are able to "connect" any combination of control positions together, and allow them to run as different positions within the same environment and scenario.
@@ -16,7 +18,7 @@ Departure will climb DAL1529 and hand the aircraft off to Aero Center, controlle
 
 So, essentially, instead of traffic appearing outside of your area of responsibility, the aircraft will be given to you and accepted from you by another student. Unlike single-suite scenarios, this is a very realistic representation of a small-scale air traffic environment.
 
-# But it gets better...
+### But it gets better...
 
 We are capable of combining one tower with one TRACON with one center. But we are capable of going further-- splitting TRACONs into sectors, utilizing more sectors of Aero Center for active control, and potentially even building a full Tower-TRACON-Enroute-TRACON-Tower link between airports, with traffic being controlled from pushback to engine shutdown.
 
