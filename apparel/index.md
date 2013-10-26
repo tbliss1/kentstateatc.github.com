@@ -78,31 +78,31 @@ $43.20 - Unisex Fleece Zip Hoodie by American Apparel
 ![picture](/assets/images/apparel/23.png)
 
 $34.80 - Women's Hooded Sweatshirt ("Upward & Onward")
-<a href="" ><img src="kentstateatc.org/assets/images/apparel/24a.png" onmouseover="this.src='kentstateatc.org/assets/images/apparel/24b.png'" onmouseout="this.src='kentstateatc.org/assets/images/apparel/24a.png'"/></a>
+<a href="" ><img src="http://www.kentstateatc.org/assets/images/apparel/24a.png" onmouseover="this.src='http://www.kentstateatc.org/assets/images/apparel/24b.png'" onmouseout="this.src='http://www.kentstateatc.org/assets/images/apparel/24a.png'"/></a>
 
 $31.80 - Women's Hooded Sweatshirt
-<a href="" ><img src="kentstateatc.org/assets/images/apparel/25a.png" onmouseover="this.src='kentstateatc.org/assets/images/apparel/25b.png'" onmouseout="this.src='kentstateatc.org/assets/images/apparel/25a.png'"/></a>
+<a href="" ><img src="http://www.kentstateatc.org/assets/images/apparel/25a.png" onmouseover="this.src='http://www.kentstateatc.org/assets/images/apparel/25b.png'" onmouseout="this.src='http://www.kentstateatc.org/assets/images/apparel/25a.png'"/></a>
 
 $34.80 - Men's Hooded Sweatshirt
-<a href="" ><img src="kentstateatc.org/assets/images/apparel/26a.png" onmouseover="this.src='kentstateatc.org/assets/images/apparel/26b.png'" onmouseout="this.src='kentstateatc.org/assets/images/apparel/26a.png'"/></a>
+<a href="" ><img src="http://www.kentstateatc.org/assets/images/apparel/26a.png" onmouseover="this.src='http://www.kentstateatc.org/assets/images/apparel/26b.png'" onmouseout="this.src='http://www.kentstateatc.org/assets/images/apparel/26a.png'"/></a>
 
 $31.80 - Men's Hooded Sweatshirt ("Upward & Onward")
-<a href="" ><img src="kentstateatc.org/assets/images/apparel/27a.png" onmouseover="this.src='kentstateatc.org/assets/images/apparel/27b.png'" onmouseout="this.src='kentstateatc.org/assets/images/apparel/27a.png'"/></a>
+<a href="" ><img src="http://www.kentstateatc.org/assets/images/apparel/27a.png" onmouseover="this.src='http://www.kentstateatc.org/assets/images/apparel/27b.png'" onmouseout="this.src='http://www.kentstateatc.org/assets/images/apparel/27a.png'"/></a>
 
 $37.70 - Unisex Track Jacket by American Apparel
-<a href="" ><img src="kentstateatc.org/assets/images/apparel/28a.png" onmouseover="this.src='kentstateatc.org/assets/images/apparel/28b.png'" onmouseout="this.src='kentstateatc.org/assets/images/apparel/28a.png'"/></a>
+<a href="" ><img src="http://www.kentstateatc.org/assets/images/apparel/28a.png" onmouseover="this.src='http://www.kentstateatc.org/assets/images/apparel/28b.png'" onmouseout="this.src='http://www.kentstateatc.org/assets/images/apparel/28a.png'"/></a>
 
 $36.00 - Women's Tri-Blend Performance Hooded T-Shirt
-<a href="" ><img src="kentstateatc.org/assets/images/apparel/29a.png" onmouseover="this.src='kentstateatc.org/assets/images/apparel/29b.png'" onmouseout="this.src='kentstateatc.org/assets/images/apparel/29a.png'"/></a>
+<a href="" ><img src="http://www.kentstateatc.org/assets/images/apparel/29a.png" onmouseover="this.src='http://www.kentstateatc.org/assets/images/apparel/29b.png'" onmouseout="this.src='http://www.kentstateatc.org/assets/images/apparel/29a.png'"/></a>
 
 $16.40 - Men's Premium T-Shirt
 ![picture](/assets/images/apparel/30.png)
 
 $19.40 - Men's Heavyweight T-Shirt (Black)
-<a href="" ><img src="kentstateatc.org/assets/images/apparel/31a.png" onmouseover="this.src='kentstateatc.org/assets/images/apparel/31b.png'" onmouseout="this.src='kentstateatc.org/assets/images/apparel/31a.png'"/></a>
+<a href="" ><img src="http://www.kentstateatc.org/assets/images/apparel/31a.png" onmouseover="this.src='http://www.kentstateatc.org/assets/images/apparel/31b.png'" onmouseout="this.src='http://www.kentstateatc.org/assets/images/apparel/31a.png'"/></a>
 
 $19.40 - Men's Heavyweight T-Shirt (White)
-<a href="" ><img src="kentstateatc.org/assets/images/apparel/32a.png" onmouseover="this.src='kentstateatc.org/assets/images/apparel/32b.png'" onmouseout="this.src='kentstateatc.org/assets/images/apparel/32a.png'"/></a>
+<a href="" ><img src="http://www.kentstateatc.org/assets/images/apparel/32a.png" onmouseover="this.src='http://www.kentstateatc.org/assets/images/apparel/32b.png'" onmouseout="this.src='http://www.kentstateatc.org/assets/images/apparel/32a.png'"/></a>
 
 $19.40 - Men's Heavyweight T-Shirt (Light Gray)
-<a href="" ><img src="kentstateatc.org/assets/images/apparel/33a.png" onmouseover="this.src='kentstateatc.org/assets/images/apparel/33b.png'" onmouseout="this.src='kentstateatc.org/assets/images/apparel/33a.png'"/></a>
+<a href="" ><img src="http://www.kentstateatc.org/assets/images/apparel/33a.png" onmouseover="this.src='http://www.kentstateatc.org/assets/images/apparel/33b.png'" onmouseout="this.src='http://www.kentstateatc.org/assets/images/apparel/33a.png'"/></a>
