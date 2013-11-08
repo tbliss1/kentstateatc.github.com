@@ -242,6 +242,10 @@ a {
   display: block;
 }
 
+iframe {
+  max-width: 100%;
+}
+
 blockquote {
   font-family: Georgia, serif;
   font-style: italic;

@@ -9,7 +9,7 @@ body {
 	font-family: pt-sans, sans-serif;
 	margin: 0;
 	padding: 0;
-	line-height: 1.5em; 
+	line-height: 1.5em;
 }
 
 h1, h2, h3, h4 {
@@ -37,7 +37,7 @@ a {
 	border-bottom: 10px solid $blue;
 	border-top: 10px solid $gold;
 	height: 300px;
-	padding: 0px;  
+	padding: 0px;
 	margin: 0;
 	background-size: 70%;
 	overflow:none;
@@ -84,7 +84,7 @@ a {
 				// 	@include box-shadowed;
 				// }
 			}
-		} 
+		}
 	}
 }
 
@@ -114,11 +114,13 @@ a {
 	img {
 		max-width: 100%;
 		width: 50%;
-		margin: 1em 0 3em; 
+		margin: 1em 0 3em;
 		display: block;
 	}
+}
 
-
+iframe {
+	max-width: 100%;
 }
 
 blockquote {
@@ -153,7 +155,7 @@ blockquote {
 					width: 90%;
 					color: #fbfbfb;
 				}
-			} 
+			}
 		}
 	}
 	.content {
