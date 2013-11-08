@@ -23,3 +23,5 @@ So, essentially, instead of traffic appearing outside of your area of responsibi
 We are capable of combining one tower with one TRACON with one center. But we are capable of going further-- splitting TRACONs into sectors, utilizing more sectors of Aero Center for active control, and potentially even building a full Tower-TRACON-Enroute-TRACON-Tower link between airports, with traffic being controlled from pushback to engine shutdown.
 
 It's cool stuff.
+
+[See more KAO's R.A.T.E.S. Project for multi-suite scenarios](/rates/).
