@@ -1,7 +1,7 @@
 ---
 layout: hero
 title: The R.A.T.E.S. Project
-permalink: rates/breakdown/index.html
+permalink: /rates/breakdown/index.html
 ---
 # R.A.T.E.S. Modes
  

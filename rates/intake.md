@@ -1,7 +1,7 @@
 ---
 layout: hero
 title: R.A.T.E.S. Intake Form
-permalink: /rates/intake.html
+permalink: /rates/intake/index.html
 ---
 # R.A.T.E.S. Intake Form
  
