@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>{{ page.title }} | KSU ATC</title>
+{% include head.html %}
+{% include googlytics.html %}
+{% include scripts.html %}
+</head> 
+<body>
+<div class="header">
+<div class="navigation animated bounceInDown">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/membership/">Membership</a></li>
+<li><a href="/calendar/">Calendar</a></li>
+<li><a href="/resources/">Resources</a></li>
+<li><a href="/contact/">Contact us</a></li>
+</ul>
+</div>
+</div>
+
+<div class="hero"></div>
+<div class="container">
+<div class="content">
+{{ content }}
+</div>
+</div>
+
+<script>
+$('.hero').backstretch("/assets/images/meeting.jpg");
+</script>
+</body>
+</html>
