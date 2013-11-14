@@ -4,7 +4,7 @@ title: Welcome to the Kent State Air Traffic Control Organization
 ---
 # A message from the founders 
 
-### Welcome to the KAO-SATCA
+### Welcome to KAO-SATCA
 
 Since its humble beginnings in September of 2012, KAO has achieved great things with our incredible aeronautics program here at Kent. Growing to become one of the largest student organizations in Kent State University, we have fostered a growth in quality and variety of services for our members to utilize in their pursuit of knowledge and refinement.
 

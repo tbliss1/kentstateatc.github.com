@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The R.A.T.E.S. Project
-permalink: /rates/signup/index.html
+permalink: /signup/index.html
 ---
 OOPS!
 
