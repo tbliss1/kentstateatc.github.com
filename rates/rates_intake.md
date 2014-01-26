@@ -1,5 +1,5 @@
 ---
-layout: hero
+layout: default
 title: "R.A.T.E.S. Intake Form"
 permalink: "/intake/index.html"
 ---

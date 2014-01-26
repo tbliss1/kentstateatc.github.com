@@ -3,30 +3,28 @@
 <title>{{ page.title }} | KSU ATC</title>
 {% include head.html %}
 {% include googlytics.html %}
-{% include scripts.html %}
-</head> 
+<script src="/livereload.js"></script>
+
+</head>
 <body>
-<div class="header">
-<div class="navigation animated bounceInDown">
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="/membership/">Membership</a></li>
-<li><a href="/calendar/">Calendar</a></li>
-<li><a href="/resources/">Resources</a></li>
-<li><a href="/contact/">Contact us</a></li>
-</ul>
-</div>
+<div class="hero">
+<section>
+<h1 class="hero-text">Welcome to KAO.<br>Upward and onward.</h1>
+<a class="button" href="#content">Explore &darr;</a>
+</section>
 </div>
 
-<div class="hero"></div>
+{% include nav.html %}
+
 <div class="container">
 <div class="content">
 {{ content }}
 </div>
 </div>
 
-<script>
-$('.hero').backstretch("/assets/images/meeting.jpg");
-</script>
+<section class="footer">
+</section>
+
+{% include scripts.html %}
 </body>
 </html>

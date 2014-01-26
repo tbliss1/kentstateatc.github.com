@@ -1,33 +1,30 @@
 <html>
-  <head>
-    <title>{{ page.title }} | KSU ATC</title>
-    {% include head.html %}
-    {% include googlytics.html %}
-    {% include scripts.html %}
-  </head> 
-  <body>
-  	<div class="container">
-  		<div class="header animated bounceInDown">
-  		</div>
-  		
-  		<div class="navigation">
-			<ul>
-				<li><a href="/index.html">Home</a></li>
-        <!-- <li><a href="/join.html">Join</a></li> -->
-        <li><a href="/membership.html">Membership</a></li>
-        <li><a href="/calendar.html">Calendar</a></li>
-        <li><a href="/resources.html">Resources</a></li>
-				<li><a href="/contact.html">Contact us</a></li>
-			</ul>
-  		</div>
-  		
-  		<div class="content">
-	    {{ content }}
-	    </div>
-    </div>	
-    
-<script>
-  $.backstretch("/assets/images/meeting.jpg");
-</script>
-  </body>
+<head>
+<title>{{ page.title }} | KSU ATC</title>
+{% include head.html %}
+{% include googlytics.html %}
+<script src="/livereload.js"></script>
+
+</head>
+<body>
+<!-- <div class="hero">
+<section>
+<h1 class="hero-text">Welcome to KAO.<br>Upward and onward.</h1>
+<a class="button" href="#content">Explore &darr;</a>
+</section>
+</div> -->
+
+{% include nav.html %}
+
+
+
+
+<div class="container">
+<div class="content">
+{{ content }}
+</div>
+</div>
+
+{% include scripts.html %}
+</body>
 </html>

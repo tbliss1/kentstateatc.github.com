@@ -1,10 +1,10 @@
 ---
-layout: hero
+layout: default
 title: The R.A.T.E.S. Project
 permalink: /breakdown/index.html
 ---
 # R.A.T.E.S. Modes
- 
+
 R.A.T.E.S. is a multi-suite driven simulation. If you don't know what that means, information on triple-plays is available [here](/tripleplay/).
 
 There are 3 different modes to RATES, and understanding them is important, to decide which interests you the most.

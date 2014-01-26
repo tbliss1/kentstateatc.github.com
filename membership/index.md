@@ -1,10 +1,10 @@
 ---
-layout: hero
+layout: default
 title: Membership
 ---
 # Membership
 
-We currently offer two types of membership for KAO. Please determine which type of membership you would like to apply for, and then specify that option on our sign-up form. 
+We currently offer two types of membership for KAO. Please determine which type of membership you would like to apply for, and then specify that option on our sign-up form.
 
 ### Full Membership
 

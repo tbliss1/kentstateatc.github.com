@@ -1,10 +1,10 @@
 ---
-layout: hero
+layout: default
 title: 2013 Constitution Review
 ---
 # 2013 Constitution Review
 
-This poll is closed, as of August 1st, 2013. 
+This poll is closed, as of August 1st, 2013.
 
 All votes were in favor of the changes, and so the Constitution has been approved, and is now the current copy.
 

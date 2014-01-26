@@ -1,9 +1,9 @@
 ---
-layout: hero
+layout: default
 title: Resources
 ---
 # The "Triple-Play"
- 
+
 ### Multi-Suite Scenarios
 
 Thanks to our ATC Simulation Software provided by CSC, Kent State's ATC Lab is capable of doing something very extraordinary.

@@ -1,5 +1,5 @@
 ---
-layout: hero
+layout: default
 title: KAO Apparel
 ---
 # KAO Apparel
@@ -38,7 +38,7 @@ $15.00 - Women's Standard Weight T-Shirt
 $24.90 - Men's Long Sleeve T-Shirt
 ![Men's Long Sleeve T-Shirt](/assets/images/apparel/10.png)
 
-$21.60 - Women's Long Sleeve Jersey T-Shirt 
+$21.60 - Women's Long Sleeve Jersey T-Shirt
 ![Men's Long Sleeve T-Shirt](/assets/images/apparel/11.png)
 
 $22.70 - Men's T-Shirt by American Apparel

@@ -1,5 +1,5 @@
 ---
-layout: hero
+layout: default
 title: 2013 General Election
 ---
 # 2013 General Election
@@ -16,6 +16,6 @@ If you have technical difficulties, [let us know](mailto:desk@kentstateatc.org).
 
 -KAO ^>
 
-Time Remaining: 
+Time Remaining:
 
 <iframe src="http://free.timeanddate.com/countdown/i3r7prxg/n12/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr1/ss0/cac000/cpc000/pcfff/tc66c/fs100/szw256/szh108/iso2013-08-19T00:00:00" frameborder="0" width="78" height="28"></iframe>

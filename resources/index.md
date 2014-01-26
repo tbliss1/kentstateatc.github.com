@@ -1,10 +1,10 @@
 ---
-layout: hero
+layout: default
 title: Resources
 ---
 # Resources
- 
-We have the following materials available for you to download and view: 
+
+We have the following materials available for you to download and view:
 
 - [R.A.T.E.S. Project Information](/rates/)
 - [Attend a R.A.T.E.S. Session](/rates/intake/)

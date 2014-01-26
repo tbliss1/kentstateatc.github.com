@@ -5,15 +5,30 @@ $blue: #145D84;
 $gold: #F1CB6B;
 $gray: #ddd;
 
+$page_width: 700px;
+
+$serif: "Georgia Pro", Georgia, serif;
+$sans: "Source Sans Pro", "Helvetica Neue", "Segoe UI", "Arial", sans-serif;
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,900);
+
+*, html {
+		-moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
 body {
-	font-family: pt-sans, sans-serif;
+	font-family: $serif;
 	margin: 0;
 	padding: 0;
+	font-size: 18px;
 	line-height: 1.5em;
 }
 
-h1, h2, h3, h4 {
-	line-height: 1.2em;
+h1, h2, h3, h4, h5, h6, .button {
+	// line-height: 1.2em;
+	font-family: $sans;
 }
 
 a {
@@ -24,7 +39,7 @@ a {
 }
 
 .container {
-	max-width: 750px;
+	max-width: $page_width;
 	width: 85%;
 	margin: 0 auto;
 	margin-bottom: 100px;
@@ -33,48 +48,82 @@ a {
 
 .hero {
 	background: url('../images/meeting.jpg') center no-repeat;
-	width: 100%;
-	border-bottom: 10px solid $blue;
-	border-top: 10px solid $gold;
-	height: 300px;
-	padding: 0px;
+	// width: 100%;
+	background-color: #ddd;
+	height: 100%;
+	// border-bottom: 30px solid $blue;
+	border-bottom: 30px solid $gold;
+	// height: 300px;
+	padding: 0;
 	margin: 0;
-	background-size: 70%;
-	overflow:none;
+	background-size: cover;
+	// background-size: 70%;
+	// overflow:none;
+
+	section {
+		@include vertical-align;
+		max-width: $page_width;
+		margin: 0 auto;
+	}
+	h1 {
+		line-height: 1.2em;
+		font-weight: 100;
+		color: #fff;
+		font-size: 5rem;
+	}
+	.button {
+		padding: .5em 1em;
+		border: solid #fff 3px;
+		text-transform: uppercase;
+		font-weight: 500;
+		color: #fff;
+		font-size: 2em;
+		letter-spacing: 2px;
+		border-radius: 100px;
+		display: inline-block;
+	}
 }
 
 .header {
 	background: url('../images/logo.png') left center no-repeat;
-	height: 100px;
-	width: 700px;
-	margin: 0px auto;
-	padding-top: 90px;
-	background-size: 120px;
+	max-width: $page_width;
+	margin: 2em auto;
+	// padding-top: 90px;
+	border-bottom: 20px solid $blue;
+	padding: 3em 0;
+	background-size: 150px;
 }
 
 .navigation {
 	font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', Calibri, sans-serif;
 	ul {
-		padding: 0;
+		padding: 0 0 0 1em;
 		margin: 0;
+		// margin-left: 200px;
 		text-align: right;
+		border-right: 10px solid $blue;
+		padding-right: 1rem;
 		li {
 			list-style: none;
-			display: inline;
+			// display: inline;
 			padding: 0;
-			margin: 0px 2px;
+			margin: 0px;
 			a {
-				font-size: .80em;
+				display: inline-block;
+				font-size: .9em;
 				letter-spacing: 1px;
 				text-decoration: none;
 				color: #fbfbfb;
-				padding: 6px 10px;
+				padding: .1rem 1rem;
+				margin: .2rem 0;
 				text-transform: uppercase;
-				border: 1px solid $blue;
-				@include box-shadow(2px, 2px, 2px, #ddd);
-				@include gradient(lighten($blue, 10%), $blue);
+				background-color: $blue;
+				border-radius: 50px;
+				// @include box-shadow(2px, 2px, 2px, #ddd);
+				// @include gradient(lighten($blue, 10%), $blue);
 				&:hover {
-					@include gradient(lighten($blue, 5%), darken($blue, 5%));
+					background-color: $gold;
+					// @include gradient(lighten($blue, 5%), darken($blue, 5%));
 				}
 				// &:active {
 				// 	position: relative;
@@ -90,25 +139,24 @@ a {
 
 .content {
 	background: #fff;
-	max-width: 520px;
+	max-width: $page_width;
 	margin: 0px auto;
 	// @include box-shadowed;
 	h1 {
-		background-color: $blue;
-		color: #fff;
-		text-align: center;
-		margin: 0;
-		padding: 20px 100px;
-		margin-left: -100px;
-		width: 100%;
+		font-weight: 200;
+		font-size: 3em;
+		text-align: left;
+		margin: .5em 0;
+		padding: .5em;
 		letter-spacing: 2px;
-		text-transform: uppercase;
+		border-left: 10px solid $gold;
+		line-height: 1.1em;
 	}
 
 	h2 {
 		margin-top: 1.5em;
 		text-transform: uppercase;
-		font-size: 1em;
+		font-size: 2em;
 	}
 
 	img {
@@ -117,6 +165,15 @@ a {
 		margin: 1em 0 3em;
 		display: block;
 	}
+}
+
+.footer {
+	max-width: 100%;
+	background-color: $gold;
+	text-align: center;
+	height: 50px;
+	font-size: 3em;
+	font-weight: 100;
 }
 
 iframe {
@@ -162,6 +219,8 @@ blockquote {
 		margin-top: 30px;
 		h1 {
 			padding: 10px 0px;
+			padding-left: .5em;
+			font-size: 2em;
 			margin: 0;
 		}
 	}
