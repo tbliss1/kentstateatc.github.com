@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Membership
+title: Membership | KAO
 ---
 # Membership
 
@@ -16,4 +16,4 @@ If you are a Kent State University student, you are eligible to become a full me
 
 Affiliate membership is also available to any non-KSU affiliated person who wishes to join. Affiliate membership includes the opportunity to participate in ANY and ALL KAO activities. The only limitation is that affiliate members may not cast a vote for officer elections.
 
-### You can apply for membership [here](http://kentstateatc.us6.list-manage.com/subscribe?u=43d96d7228aa8f1f9461ceb13&id=fe135b2a2a).
+### You can become a member [here](http://kentstateatc.us6.list-manage.com/subscribe?u=43d96d7228aa8f1f9461ceb13&id=fe135b2a2a).

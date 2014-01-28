@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: Resources | KAO
 ---
 # Resources
 
@@ -8,9 +8,8 @@ We have the following materials available for you to download and view:
 
 - [R.A.T.E.S. Project Information](/rates/)
 - [Attend a R.A.T.E.S. Session](/rates/intake/)
-
-- [KSU ATC Organization Constitution, 9-21-12](https://www.dropbox.com/s/r4ry4syb959r8xw/KSU%20ATC%20Organization%20Constitution%2C%207-2013.pdf)
-- [FAA Order 7110.65U - CHG1](http://www.faa.gov/documentlibrary/media/order/atc.pdf)
+- [KSU ATC Organization Constitution, 8-21-13](https://www.dropbox.com/s/wwaxlgmj288ust3/KAO%20Constitution%20-%20Eff.%20Fall%202013.pdf)
+- [FAA Order 7110.65U - CHG3](http://www.faa.gov/documentlibrary/media/order/atc.pdf)
 - [KAO Aircraft Recognition Flashcards](http://www.studyblue.com/#course/567687)
-- KAO 7110.65 Flashcards - Available this Spring!
-- KAO Lab Phraseology Flashcards - Available this Spring!
+- KAO 7110.65 Flashcards - Available soon!
+- KAO Lab Phraseology Flashcards - Available soon!

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Calendar
+title: Calendar | KAO
 ---
 # Our schedule
 

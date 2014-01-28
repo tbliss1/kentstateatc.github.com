@@ -1,10 +1,10 @@
 ---
 layout: hero
-title: Welcome to the Kent State Air Traffic Control Organization
+title: Kent State Air Traffic Control Organization
 ---
 # A message from the founders
 
-## Welcome to KAO-SATCA
+## Welcome to KAO
 
 Since its humble beginnings in September of 2012, KAO has achieved great things with our incredible aeronautics program here at Kent. Growing to become one of the largest student organizations in Kent State University, we have fostered a growth in quality and variety of services for our members to utilize in their pursuit of knowledge and refinement.
 
@@ -14,7 +14,6 @@ The philosophy here at KAO is one of professionalism, dedication, camaraderie an
 
 ^>
 
-The "Founding Fathers"
-Scott Waite & Erik Quinn
+The "Founding Fathers" - Scott Waite & Erik Quinn
 
 > "To most people, the sky is the limit. To those who love aviation, the sky is home" - Anonymous
