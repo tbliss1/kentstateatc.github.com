@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources | KAO
+title: Resources
 ---
 # Resources
 
@@ -13,3 +13,4 @@ We have the following materials available for you to download and view:
 - [KAO Aircraft Recognition Flashcards](http://www.studyblue.com/#course/567687)
 - KAO 7110.65 Flashcards - Available soon!
 - KAO Lab Phraseology Flashcards - Available soon!
+- NEW! [KAO Apparel](/apparel/)

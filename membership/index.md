@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Membership | KAO
+title: Membership
 ---
 # Membership
 
