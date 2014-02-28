@@ -5,7 +5,7 @@ permalink: "/tours/index.html"
 ---
 # Facility Tours
 
-The first scheduled tour is Feb. 22nd, at __Port Columbus International Airport__. 
+The second scheduled tour is Mar. 1st, at __Akron-Canton Regional Airport__. 
 
 [To sign up, go here](/events/signup/).
 
@@ -18,5 +18,3 @@ KCLE - Cleveland Tower / TRACON
 ZOB - Cleveland ARTCC
 
 KPIT - Pittsburgh Tower / TRACON
-
-KCAK - Akron/Canton Tower / TRACON
