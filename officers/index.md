@@ -37,7 +37,7 @@ View KAO's Associate Officer Positions (4)
 
 ### Class Representatives (one per projected graduation year):
 
-Class Representatives play a critical role in KAO. They are expected to represent the interests and desires, as well as the complaints and complements, of their graduating class to KAO Leadership. As Class Representative, brutal honesty is very important. KAO Leadership thrives on feedback, positive and negative, to shape the organization to please its members. Class Representatives will be kept "in the loop" by the Officers, and will hold some minor responsibilities, such as recruitment and sharing ideas and feedback to the rest of KAO leadership. Reports to the PR Director.
+Class Representatives play a critical role in KAO. They are expected to represent the interests and desires, as well as the complaints and complements, of their graduating class to KAO Leadership. As Class Representative, brutal honesty is very important. KAO Leadership thrives on feedback, positive and negative, to shape the organization to please its members. Class Representatives will be kept "in the loop" by the Officers, and will hold some minor responsibilities, such as recruitment and sharing ideas and feedback to the rest of KAO leadership. __This is an _appointed_ position__. Reports to the PR Director.
 
 
 
