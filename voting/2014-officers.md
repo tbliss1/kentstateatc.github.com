@@ -6,7 +6,7 @@ title: 2014 General Election
 
 To apply for KAO Leadership, you must be a "Full Member".
 
-The leadership application is available until Saturday, August 2nd at 11:59pm. The General Election Voting Period is 8/3/2014 - 8/16/2014.([See the calendar](http://www.kentstateatc.org/calendar))
+The leadership application is available until Sunday, August 9th at 11:59pm. The General Election Voting Period is 8/10/2014 - 8/14/2014.([See the calendar](http://www.kentstateatc.org/calendar))
 
 For more detailed information on the available positions, [__click here__](http://www.kentstateatc.org/officers).
 
