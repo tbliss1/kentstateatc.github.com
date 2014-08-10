@@ -6,34 +6,34 @@ title: KAO Leadership
 
 ### KAO Executives
 
-### Erik Quinn, President
+### Alex Rudewicz, President
 Senior, Air Traffic Control Major
-KAO Co-Founder, VP in 2012
-KSU ATC Lab Instructor
-[erik@kentstateatc.org](mailto:erik@kentstateatc.org)
-![erik's headshot](/assets/images/leadership/EQ.jpg)
-
-### Alex Rudewicz, Vice President
-Junior, Air Traffic Control Major
 KAO ATC Subject Specialist (Terminal) in 2012
-KSU ATC Lab Instructor
+KAO Vice President in 2013
+KSU Student Lab Assistant
 [arudewic@kent.edu](mailto:arudewic@kent.edu)
 ![headshot](/assets/images/leadership/AR.jpg)
 
 
-### Courtney Scott, Clerk of Events
-Junior, Air Traffic Control Major
+### Courtney Scott, Vice President
+Senior, Air Traffic Control Major
+KAO Clerk of Events in 2013
 [cscott47@kent.edu](mailto:cscott47@kent.edu)
 ![headshot](/assets/images/leadership/CS.jpg)
 
 
-### Ally Opfer, Public Relations Director
+### Zach Conrad, Clerk of Events
 Sophomore, Air Traffic Control Major
-[aopfer1@kent.edu](mailto:aopfer1@kent.edu)
-![headshot](/assets/images/leadership/AO.jpg)
+[zconrad1@kent.edu](mailto:zconrad1@kent.edu)
+![headshot](/assets/images/leadership/ZC.jpg)
+
+### Andrew Burnham, Public Relations Director
+Sophomore, Air Traffic Control Major
+[aburnha1@kent.edu](mailto:aburnha1@kent.edu)
+![headshot](/assets/images/leadership/AB.jpg)
 
 
-### Class Representatives
+<!-- ### Class Representatives
 
 ### Lennox West, Freshman Class Representative
 Freshman, Air Traffic Control Major
@@ -56,7 +56,7 @@ Junior, Air Traffic Control Major
 Senior, Air Traffic Control Major
 [mdaughe4@kent.edu](mailto:mdaughe4@kent.edu)
 ![headshot](/assets/images/leadership/MD.jpg)
-
+-->
 
 <!--
 ## Subject Specialists
@@ -79,14 +79,14 @@ Junior, Flight Technology Major
 
 ### Robert A. Priestley
 Assistant Professor of ATC
-KAO Subject Matter Expert, ATC: Terminal Option
+KAO Subject Matter Expert, ATC: Terminal
 [rpriestl@kent.edu](mailto:rpriestl@kent.edu)
 ![headshot](/assets/images/leadership/RP.jpg)
 
 
 ### Jason T. Boergerhoff
 Assistant Professor of ATC
-KAO Subject Matter Expert, ATC: Enroute Option
+KAO Subject Matter Expert, ATC: Enroute
 [jboerger@kent.edu](mailto:jboerger@kent.edu)
 
 
