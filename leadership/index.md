@@ -27,52 +27,34 @@ Sophomore, Air Traffic Control Major
 [zconrad1@kent.edu](mailto:zconrad1@kent.edu)  
 ![headshot](/assets/images/leadership/ZC.jpg)
 
+
 ### Andrew Burnham, Public Relations Director
-Sophomore, Air Traffic Control Major  
+Junior, Air Traffic Control Major  
 [aburnha1@kent.edu](mailto:aburnha1@kent.edu)  
 ![headshot](/assets/images/leadership/AB.jpg)
 
 
-<!-- ### Class Representatives
+### Class Representatives
 
-### Lennox West, Freshman Class Representative
+<!-- ### , Freshman Class Representative
 Freshman, Air Traffic Control Major
-[lwest12@kent.edu](mailto:lwest12@kent.edu)
-![headshot](/assets/images/leadership/LW.jpg)
+[@kent.edu](mailto:@kent.edu)
+![headshot](/assets/images/leadership/XX.jpg)
 
-
-### Angus McCormack, Sophomore Class Representative
+### , Sophomore Class Representative
 Sophomore, Air Traffic Control Major
-[amccorm4@kent.edu](mailto:amccorma4@kent.edu)
-![headshot](/assets/images/leadership/AM.jpg)
+[@kent.edu](mailto:@kent.edu)
+![headshot](/assets/images/leadership/XX.jpg) -->
 
-
-### Michael Gillies, Junior Class Representative
+### Austin Stevanus, Junior Class Representative
 Junior, Air Traffic Control Major
-[mgillies@kent.edu](mailto:mgillies@kent.edu)
-![picture](/assets/images/leadership/MG.jpg)
+[astevanu@kent.edu](mailto:astevanu@kent.edu)
+![picture](/assets/images/leadership/AS.jpg)
 
-### Mike Daugherty, Senior Class Representative
+### Dan Hines, Senior Class Representative
 Senior, Air Traffic Control Major
-[mdaughe4@kent.edu](mailto:mdaughe4@kent.edu)
-![headshot](/assets/images/leadership/MD.jpg)
--->
-
-<!--
-## Subject Specialists
-
-### Tyler Stanis, Flight Subject Specialist
-Junior, Air Traffic Control and Flight Technology Double-Major
-KAO Flight Subject Specialist since 2012
-[tstanis@kent.edu](mailto:tstanis@kent.edu)
-![headshot](/assets/images/leadership/TS.jpg)
-
-
-### Dan Schiff, Airline Operations Subject Specialist
-Junior, Flight Technology Major
-[danschiffemail](mailto:danschiffemail)
-![headshot](/assets/images/leadership/DS.jpg)
--->
+[dhines8@kent.edu](mailto:dhines8@kent.edu)
+![headshot](/assets/images/leadership/DH.jpg)
 
 
 ### KAO Faculty Advisors
@@ -83,12 +65,11 @@ KAO Subject Matter Expert, ATC: Terminal
 [rpriestl@kent.edu](mailto:rpriestl@kent.edu)  
 ![headshot](/assets/images/leadership/RP.jpg)
 
-
 ### Jason T. Boergerhoff
 Assistant Professor of ATC  
 KAO Subject Matter Expert, ATC: Enroute  
 [jboerger@kent.edu](mailto:jboerger@kent.edu)
-
+![headshot](/assets/images/leadership/JB.jpg)
 
 ### Dr. Isaac Richmond Nettey, Ph.D.
 KAO Subject Matter Expert, Aviation History and Airport Administration  
