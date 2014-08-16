@@ -14,19 +14,16 @@ KSU Student Lab Assistant
 [arudewic@kent.edu](mailto:arudewic@kent.edu)  
 ![headshot](/assets/images/leadership/AR.jpg)
 
-
 ### Courtney Scott, Vice President
 Senior, Air Traffic Control Major  
 KAO Clerk of Events in 2013  
 [cscott47@kent.edu](mailto:cscott47@kent.edu)  
 ![headshot](/assets/images/leadership/CS.jpg)
 
-
 ### Zach Conrad, Clerk of Events
 Sophomore, Air Traffic Control Major  
 [zconrad1@kent.edu](mailto:zconrad1@kent.edu)  
-![headshot](/assets/images/leadership/ZC.jpg)
-
+<!-- ![headshot](/assets/images/leadership/ZC.jpg) -->
 
 ### Andrew Burnham, Public Relations Director
 Junior, Air Traffic Control Major  
@@ -49,12 +46,12 @@ Sophomore, Air Traffic Control Major
 ### Austin Stevanus, Junior Class Representative
 Junior, Air Traffic Control Major
 [astevanu@kent.edu](mailto:astevanu@kent.edu)
-![picture](/assets/images/leadership/AS.jpg)
+<!-- ![picture](/assets/images/leadership/AS.jpg) -->
 
 ### Dan Hines, Senior Class Representative
 Senior, Air Traffic Control Major
 [dhines8@kent.edu](mailto:dhines8@kent.edu)
-![headshot](/assets/images/leadership/DH.jpg)
+<!-- ![headshot](/assets/images/leadership/DH.jpg) -->
 
 
 ### KAO Faculty Advisors
