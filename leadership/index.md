@@ -17,7 +17,7 @@ KSU Student Lab Assistant
 __Courtney Scott, Vice President__  
 Senior, Air Traffic Control Major  
 KAO Clerk of Events in 2013  
-KSU Student Lab Assistant
+KSU Student Lab Assistant  
 [cscott47@kent.edu](mailto:cscott47@kent.edu)  
 ![headshot](/assets/images/leadership/CS.jpg)
 
