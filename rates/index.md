@@ -8,4 +8,4 @@ RATES is one of KAO's most important assets, and one that is of incredible value
 
 For a breakdown of the 3 different modes of RATES ("CFS", "THE QUAD", "MISSY"), go [here](breakdown).
 
-__If attending a R.A.T.E.S. session, you must help us place you in a position and time slot by filling out [the Intake Form](/rates/intake/).__
+__If attending a R.A.T.E.S. session, you must help us place you in a position and time slot by filling out [the Signup Form](/rates/signup/).__

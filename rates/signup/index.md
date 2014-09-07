@@ -1,7 +1,12 @@
 ---
 layout: default
-title: The R.A.T.E.S. Project
+title: "RATES Signup Form"
 ---
-OOPS!
+# RATES Signup Form
+Thank you for your interest in participating in a RATES session.
+The mode we will be operating in will be indicated on the [KAO Calendar](/calendar/).
 
-You meant to go to [kentstateatc.org/rates/intake](/rates/intake/).
+<iframe src="https://docs.google.com/forms/d/1dvZkWabQbisKLpVvyt2_yQNXg7Wqn2YRzsMiZP5Pml8/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+For more information about the RATES project, see [this page](/rates/breakdown/).
+If you have any trouble, [let Erik know](mailto:erik@kentstateatc.org).
