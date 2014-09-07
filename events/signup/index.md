@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Event Signup"
-permalink: "/signup/index.html"
 ---
 # KAO Event Sign-Up
 Thank you for your interest in participating in a KAO Event.

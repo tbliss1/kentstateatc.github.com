@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "R.A.T.E.S. Intake Form"
-permalink: "/intake/index.html"
 ---
 # R.A.T.E.S. Intake Form
 Thank you for your interest in participating in a R.A.T.E.S. session.

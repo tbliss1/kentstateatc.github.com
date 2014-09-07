@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "The R.A.T.E.S. Project"
-permalink: "/tours/index.html"
 ---
 # Facility Tours
 
