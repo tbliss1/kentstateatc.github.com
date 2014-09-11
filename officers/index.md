@@ -37,22 +37,23 @@ Junior, Air Traffic Control Major
 <!-- __, Freshman Class Representative__  
 Freshman, Air Traffic Control Major
 [@kent.edu](mailto:@kent.edu)
-![headshot](/assets/images/leadership/XX.jpg)
+![headshot](/assets/images/leadership/XX.jpg)  
 
 __, Sophomore Class Representative__  
-Sophomore, Air Traffic Control Major
-[@kent.edu](mailto:@kent.edu)
+Sophomore, Air Traffic Control Major  
+[@kent.edu](mailto:@kent.edu)  
 ![headshot](/assets/images/leadership/XX.jpg) -->
 
 __Austin Stevanus, Junior Class Representative__  
-Junior, Air Traffic Control Major
-[astevanu@kent.edu](mailto:astevanu@kent.edu)
-<!-- ![picture](/assets/images/leadership/AS.jpg) -->
+Junior, Air Traffic Control Major  
+[astevanu@kent.edu](mailto:astevanu@kent.edu)  
+![picture](/assets/images/leadership/AS.jpg)
 
 __Dan Hines, Senior Class Representative__  
-Senior, Air Traffic Control Major
-[dhines8@kent.edu](mailto:dhines8@kent.edu)
-<!-- ![headshot](/assets/images/leadership/DH.jpg) -->
+Senior, Air Traffic Control Major  
+KSU Student Lab Assistant  
+[dhines8@kent.edu](mailto:dhines8@kent.edu)  
+![headshot](/assets/images/leadership/DH.jpg)
 
 
 ### KAO Faculty Advisors
