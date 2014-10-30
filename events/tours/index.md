@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "The R.A.T.E.S. Project"
+title: "Facility Tours"
 ---
 # Facility Tours
 
-The second scheduled tour is September 21st, at __Pittsburgh International Airport__. 
+Our next scheduled tours are on November 15 and 22 at __Cleveland ARTCC__. 
 
 [To sign up, go here](/events/signup/).
 
@@ -14,4 +14,4 @@ We hope to also soon confirm tours with...
 
 KCLE - Cleveland Tower / TRACON
 
-ZOB - Cleveland ARTCC
+KCMH - Columbus Tower / TRACON
