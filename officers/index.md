@@ -24,7 +24,7 @@ KSU Student Lab Assistant
 __Zach Conrad, Clerk of Events__  
 Sophomore, Air Traffic Control Major  
 [zconrad1@kent.edu](mailto:zconrad1@kent.edu)  
-<!-- ![headshot](/assets/images/leadership/ZC.jpg) -->
+![headshot](/assets/images/leadership/ZC.jpg)
 
 __Andrew Burnham, Public Relations Director__  
 Junior, Air Traffic Control Major  
