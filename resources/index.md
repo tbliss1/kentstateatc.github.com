@@ -4,8 +4,6 @@ title: Resources
 ---
 # Resources
 
-Constitution Voting! The links below are the old and new constitutions, respectively.
-
 
 We have the following materials available for you to download and view:
 
