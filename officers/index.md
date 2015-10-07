@@ -6,12 +6,10 @@ title: KAO Leadership
 
 ### KAO Executives
 
-__Alex Rudewicz, President__  
+__Lazzaro Frisone, President__  
 Senior, Air Traffic Control Major  
-KAO ATC Subject Specialist (Terminal) in 2012  
-KAO Vice President in 2013  
 KSU Student Lab Assistant  
-[arudewic@kent.edu](mailto:arudewic@kent.edu)  
+[arudewic@kent.edu](mailto:lfrisone@kent.edu)  
 ![headshot](/assets/images/leadership/AR.jpg)
 
 __Courtney Scott, Vice President__  
