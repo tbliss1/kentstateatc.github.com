@@ -9,24 +9,35 @@ title: KAO Leadership
 __Lazzaro Frisone, President__  
 Senior, Air Traffic Control Major  
 KSU Student Lab Assistant  
-[arudewic@kent.edu](mailto:lfrisone@kent.edu)  
+Private Pilot
+[lfrisone@kent.edu](mailto:lfrisone@kent.edu)  
 ![headshot](/assets/images/leadership/AR.jpg)
 
-__Courtney Scott, Vice President__  
-Senior, Air Traffic Control Major  
-KAO Clerk of Events in 2013  
+__Joey Treadway, Vice President__  
+Junior, Air Traffic Control Major 
+Aircraft Dispatch Minor
 KSU Student Lab Assistant  
-[cscott47@kent.edu](mailto:cscott47@kent.edu)  
+Private Pilot
+[jtreadwa@kent.edu](mailto:jtreadwa@kent.edu)  
 ![headshot](/assets/images/leadership/CS.jpg)
 
 __Zach Conrad, Clerk of Events__  
-Sophomore, Air Traffic Control Major  
+Junior, Air Traffic Control Major 
+KSU Student Lab Assistant
 [zconrad1@kent.edu](mailto:zconrad1@kent.edu)  
 ![headshot](/assets/images/leadership/ZC.jpg)
 
-__Andrew Burnham, Public Relations Director__  
-Junior, Air Traffic Control Major  
+__Keith Imberger, Public Relations Director__  
+Sophomore, Air Traffic Control Major  
+Political Science Minor
 [aburnha1@kent.edu](mailto:aburnha1@kent.edu)  
+![headshot](/assets/images/leadership/AB.jpg)
+
+__Adam Stankowski, Treasurer__  
+Junior, Air Traffic Control Major  
+Flight Technology Minor
+Private Pilot, Instrument Rated
+[kimberge@kent.edu](mailto:kimberge@kent.edu)  
 ![headshot](/assets/images/leadership/AB.jpg)
 
 
@@ -42,16 +53,6 @@ Sophomore, Air Traffic Control Major
 [@kent.edu](mailto:@kent.edu)  
 ![headshot](/assets/images/leadership/XX.jpg) -->
 
-__Austin Stevanus, Junior Class Representative__  
-Junior, Air Traffic Control Major  
-[astevanu@kent.edu](mailto:astevanu@kent.edu)  
-![picture](/assets/images/leadership/AS.jpg)
-
-__Dan Hines, Senior Class Representative__  
-Senior, Air Traffic Control Major  
-KSU Student Lab Assistant  
-[dhines8@kent.edu](mailto:dhines8@kent.edu)  
-![headshot](/assets/images/leadership/DH.jpg)
 
 
 ### KAO Faculty Advisors
