@@ -9,34 +9,34 @@ title: KAO Leadership
 __Lazzaro Frisone, President__  
 Senior, Air Traffic Control Major  
 KSU Student Lab Assistant  
-Private Pilot
+Private Pilot  
 [lfrisone@kent.edu](mailto:lfrisone@kent.edu)  
 ![headshot](/assets/images/leadership/AR.jpg)
 
 __Joey Treadway, Vice President__  
-Junior, Air Traffic Control Major 
-Aircraft Dispatch Minor
+Junior, Air Traffic Control Major  
+Aircraft Dispatch Minor  
 KSU Student Lab Assistant  
-Private Pilot
+Private Pilot  
 [jtreadwa@kent.edu](mailto:jtreadwa@kent.edu)  
 ![headshot](/assets/images/leadership/CS.jpg)
 
 __Zach Conrad, Clerk of Events__  
-Junior, Air Traffic Control Major 
-KSU Student Lab Assistant
+Junior, Air Traffic Control Major  
+KSU Student Lab Assistant  
 [zconrad1@kent.edu](mailto:zconrad1@kent.edu)  
 ![headshot](/assets/images/leadership/ZC.jpg)
 
 __Keith Imberger, Public Relations Director__  
 Sophomore, Air Traffic Control Major  
-Political Science Minor
+Political Science Minor  
 [kimberge@kent.edu](mailto:kimberge@kent.edu)  
 ![headshot](/assets/images/leadership/AB.jpg)
 
 __Adam Stankowski, Treasurer__  
-Junior, Air Traffic Control Major  
-Flight Technology Minor
-Private Pilot, Instrument Rated
+Junior, Air Traffic Control Major   
+Flight Technology Minor  
+Private Pilot, Instrument Rated  
 [astankow@kent.edu](mailto:astankow@kent.edu)  
 ![headshot](/assets/images/leadership/AB.jpg)
 
