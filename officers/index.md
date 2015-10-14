@@ -11,7 +11,7 @@ Senior, Air Traffic Control Major
 KSU Student Lab Assistant  
 Private Pilot  
 [lfrisone@kent.edu](mailto:lfrisone@kent.edu)  
-![headshot](/assets/images/leadership/AR.jpg)
+![headshot](/assets/images/leadership/Lazzaro.jpg)
 
 __Joey Treadway, Vice President__  
 Junior, Air Traffic Control Major  
@@ -19,7 +19,7 @@ Aircraft Dispatch Minor
 KSU Student Lab Assistant  
 Private Pilot  
 [jtreadwa@kent.edu](mailto:jtreadwa@kent.edu)  
-![headshot](/assets/images/leadership/CS.jpg)
+![headshot](/assets/images/leadership/Joey.jpg)
 
 __Zach Conrad, Clerk of Events__  
 Junior, Air Traffic Control Major  
@@ -31,14 +31,14 @@ __Keith Imberger, Public Relations Director__
 Sophomore, Air Traffic Control Major  
 Political Science Minor  
 [kimberge@kent.edu](mailto:kimberge@kent.edu)  
-![headshot](/assets/images/leadership/AB.jpg)
+![headshot](/assets/images/leadership/Keith.jpg)
 
 __Adam Stankowski, Treasurer__  
 Junior, Air Traffic Control Major   
 Flight Technology Minor  
 Private Pilot, Instrument Rated  
 [astankow@kent.edu](mailto:astankow@kent.edu)  
-![headshot](/assets/images/leadership/AB.jpg)
+![headshot](/assets/images/leadership/Adam.jpg)
 
 
 
