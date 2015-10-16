@@ -7,7 +7,7 @@ title: Resources
 
 We have the following materials available for you to download and view:
 
-- [KSU ATC Organization, Constitution, 9-4-15](/assets/constitution/constitution.docx)
+- [KSU ATC Organization, Constitution, 9-4-15](https://www.dropbox.com/s/ot3y710tvfaeqdk/KAO%20Constitution%20-%20Eff.%20Fall%202015.docx?dl=0)
 - [KAO Events Pages](/events/)
 - [KAO Apparel](/apparel/)
 - [R.A.T.E.S. Project Information](/rates/)
