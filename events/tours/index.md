@@ -4,13 +4,15 @@ title: "Facility Tours"
 ---
 # Facility Tours
 
-Our next scheduled tours are on November 15 and 22 at __Cleveland ARTCC__. 
+Thanks to those that went on the KCAK Tower/TRACON tour in October. 
 
-[To sign up, go here](/events/signup/).
+Keep checking back to see future tours that KAO plans to go on!
 
+We hope to soon confirm tours with...
 
+KCGF - Cuyahoga County Tower / TRACON (and FlightOptions)
 
-We hope to also soon confirm tours with...
+ZOB- Cleveland ARTCC (Center)
 
 KCLE - Cleveland Tower / TRACON
 
