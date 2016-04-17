@@ -14,10 +14,9 @@ We have the following materials available for you to download and view:
 - [Attend a R.A.T.E.S. Session](/rates/signup/)
 - [FAA Order 7110.65W](http://www.faa.gov/documentlibrary/media/order/atc.pdf)
 
-If you are interested in running for President or Vice-President of KAO for the 2016-2017 school year, please fill out the form below. We will be in touch with you once all applications have been submitted.
+Please use the ballot below to vote for the next President and Vice-President of KAO!
 
-<iframe src="https://docs.google.com/forms/d/1ueCmDcDW-HJaf7jRtirnpgOkzyYl-_elDFqU2Lfi_XQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
+<iframe src="https://docs.google.com/a/kentstateatc.org/forms/d/1jxtBXo92pFPX6Q22XdjwWB8n2UXNfeS26XzdL1WoyOA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 
