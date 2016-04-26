@@ -14,9 +14,6 @@ We have the following materials available for you to download and view:
 - [Attend a R.A.T.E.S. Session](/rates/signup/)
 - [FAA Order 7110.65W](http://www.faa.gov/documentlibrary/media/order/atc.pdf)
 
-Please use the ballot below to vote for the next President and Vice-President of KAO!
-
-<iframe src="https://docs.google.com/a/kentstateatc.org/forms/d/1jxtBXo92pFPX6Q22XdjwWB8n2UXNfeS26XzdL1WoyOA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
 
 
