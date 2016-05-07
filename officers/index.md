@@ -23,7 +23,7 @@ KSU Student Lab Assistant
 __Doug Noonan, Clerk of Events__  
 Sophomore, Air Traffic Control Major  
 Aircraft Dispatch, Aviation Weather, Unmanned Aircraft Systems Minors  
-Private Pilot
+Private Pilot  
 [dnoonan4@kent.edu](mailto:dnoonan4@kent.edu)  
 ![headshot](/assets/images/leadership/Doug.jpg)
 
