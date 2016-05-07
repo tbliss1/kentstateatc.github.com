@@ -9,8 +9,8 @@ title: KAO Leadership
 __Joey Treadway, President__  
 Senior, Air Traffic Control Major  
 Aircraft Dispatch Minor  
-KSU Student Lab Assistant  
-Private Pilot 
+KSU Student Lab Assistant   
+Private Pilot   
 [jtreadwa@kent.edu](mailto:jtreadwa@kent.edu)  
 ![headshot](/assets/images/leadership/Joey.jpg) 
 
@@ -22,7 +22,7 @@ KSU Student Lab Assistant
 
 __Doug Noonan, Clerk of Events__  
 Sophomore, Air Traffic Control Major  
-Aircraft Dispatch, Aviation Weather, Unmanned Aircraft Systems Minors 
+Aircraft Dispatch, Aviation Weather, Unmanned Aircraft Systems Minors  
 Private Pilot
 [dnoonan4@kent.edu](mailto:dnoonan4@kent.edu)  
 ![headshot](/assets/images/leadership/Doug.jpg)
