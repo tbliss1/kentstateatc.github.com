@@ -22,7 +22,7 @@ KSU Student Lab Assistant
 
 __Doug Noonan, Clerk of Events__  
 Sophomore, Air Traffic Control Major  
-Aircraft Dispatch, Aviation Weather, Unmanned Aircraft Systems Minors  
+Aircraft Dispatch and Unmanned Aircraft Systems Minors  
 KSU Student Lab Assistant   
 Private Pilot  
 [dnoonan4@kent.edu](mailto:dnoonan4@kent.edu)  
@@ -37,7 +37,7 @@ Political Science Minor
 __Adam Stankowski, Treasurer__  
 Senior, Air Traffic Control Major   
 Flight Technology Minor  
-Private Pilot, Instrument Rated  
+Commercial Pilot  
 [astankow@kent.edu](mailto:astankow@kent.edu)  
 ![headshot](/assets/images/leadership/Adam.jpg)
 
