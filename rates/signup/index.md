@@ -4,9 +4,8 @@ title: "RATES Signup Form"
 ---
 # RATES Signup Form
 Thank you for your interest in participating in a RATES session.
-The mode we will be operating in will be indicated on the [KAO Calendar](/calendar/).
 
-<iframe src="https://docs.google.com/forms/d/1PyMep50CNfuFd7r07tNq6JxwEs9JLpWQzNwJyLbglVo/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSemD8GMst24oPcRX2gsT0gsmDE44fNopO4tgzG3CCaLiIx4DQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 For more information about the RATES project, see [this page](/rates/breakdown/).
 If you have any trouble, [let Erik know](mailto:erik@kentstateatc.org).
