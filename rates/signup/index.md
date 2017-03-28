@@ -5,7 +5,7 @@ title: "RATES Signup Form"
 # RATES Signup Form
 Thank you for your interest in participating in a RATES session.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdU11vRpBnwzyiF5r25FIekGp6ubnzT79XvcG4omXs48E3tMg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe_nDj7ricsnKhWMItQYsAwLR2fihanxPXBHtxthq06pPwzbw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 For more information about the RATES project, see [this page](/rates/breakdown/).
 If you have any trouble, [let Erik know](mailto:erik@kentstateatc.org).
