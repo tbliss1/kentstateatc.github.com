@@ -18,4 +18,3 @@ Affiliate membership is also available to any non-KSU affiliated person who wish
 
 ### You can become a member [here](http://kentstateatc.us6.list-manage.com/subscribe?u=43d96d7228aa8f1f9461ceb13&id=fe135b2a2a).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2lK16a2lfeMXuQqIUIX46h1iFm4kz13jTasBqCRqeEwP0Lw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
